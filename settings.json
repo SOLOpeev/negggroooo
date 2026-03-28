@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "no_virus_russi.aternos.me:62827",
+    "ip": "sandroller.aternos.host:62827",
     "port": 62827,
     "version": "1.20.1",
     "try-creative": true
