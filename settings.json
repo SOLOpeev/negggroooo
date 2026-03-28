@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "niga",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "no_virus_russi.aternos.me:62827",
     "port": 62827,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
