@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "no_virus_russi.aternos.me",
+    "ip": "no_virus_russi.aternos.me:62827",
     "port": 62827,
     "version": "1.20.1",
     "try-creative": false
